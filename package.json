@@ -26,7 +26,7 @@
     "tar": "^2.2.1",
     "tar-stream": "^1.6.2",
     "travis-fold": "^0.1.2",
-    "typescript": "next",
+    "typescript": "3.8.3",
     "yargs": "^8.0.2"
   },
   "devDependencies": {
